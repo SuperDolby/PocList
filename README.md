@@ -32,3 +32,6 @@
 #### Oracle-WebLogic-CVE-2020-14883 </br>
 #### Oracle-WebLogic-CVE-2020-14882 </br>
 #### Apache-Solr-GetAnyFile </br>
+#### F5-BIG-IP-CVE-2021-22986 </br>
+#### Sonicwall-SSL-VPN-RCE </br>
+#### GitLab-Graphql-CNVD-2021-14193 </br>
